@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>90157630009-pq20mnd1mvpdqon44mvpl3brapbvbd3r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.90157630009-pq20mnd1mvpdqon44mvpl3brapbvbd3r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>90157630009-2g8p9gn9v892s973gdgl8b650kanr2du.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATRfaS8PsjiiPGmFD7DZ1X52jyYabzapI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>90157630009</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bilalfakhro.rawWithGollie</string>
+	<key>PROJECT_ID</key>
+	<string>raw-with-gollie</string>
+	<key>STORAGE_BUCKET</key>
+	<string>raw-with-gollie.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:90157630009:ios:d4744437ced8ceabc983e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://raw-with-gollie.firebaseio.com</string>
+</dict>
+</plist>

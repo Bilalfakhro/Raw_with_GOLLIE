@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90157630009",
+    "firebase_url": "https://raw-with-gollie.firebaseio.com",
+    "project_id": "raw-with-gollie",
+    "storage_bucket": "raw-with-gollie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90157630009:android:7023583765c65fcfc983e8",
+        "android_client_info": {
+          "package_name": "com.bilalfakhro.raw_with_gollie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90157630009-2g8p9gn9v892s973gdgl8b650kanr2du.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bilalfakhro.raw_with_gollie",
+            "certificate_hash": "3d3ad26c14f6673dec0544171f0c27c6716f4c55"
+          }
+        },
+        {
+          "client_id": "90157630009-9a70sd73oo61t5b8669acsbj8lrkslu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8StruBScqHH_bXYgqqCq4O4uoEuf1V5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90157630009-9a70sd73oo61t5b8669acsbj8lrkslu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90157630009-pq20mnd1mvpdqon44mvpl3brapbvbd3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bilalfakhro.rawWithGollie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
